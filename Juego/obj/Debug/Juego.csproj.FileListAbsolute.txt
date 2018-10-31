@@ -1,0 +1,35 @@
+C:\Users\Vanesa\source\repos\Juego\Juego\bin\Debug\Juego.exe.config
+C:\Users\Vanesa\source\repos\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\Vanesa\source\repos\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\Vanesa\source\repos\Juego\Juego\obj\Debug\Juego.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\source\repos\Juego\Juego\obj\Debug\Juego.exe
+C:\Users\Vanesa\source\repos\Juego\Juego\obj\Debug\Juego.pdb
+C:\Users\Vanesa\source\repos\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\Vanesa\Desktop\Juego\Juego\Juego\bin\Debug\Juego.exe.config
+C:\Users\Vanesa\Desktop\Juego\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\Vanesa\Desktop\Juego\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\Vanesa\Desktop\Juego\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\Vanesa\Desktop\Juego\Juego\Juego\obj\Debug\Juego.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\Desktop\Juego\Juego\Juego\obj\Debug\Juego.exe
+C:\Users\Vanesa\Desktop\Juego\Juego\Juego\obj\Debug\Juego.pdb
+G:\Estructura de datos\Juego\Juego\bin\Debug\Juego.exe.config
+G:\Estructura de datos\Juego\Juego\bin\Debug\Juego.exe
+G:\Estructura de datos\Juego\Juego\bin\Debug\Juego.pdb
+G:\Estructura de datos\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+G:\Estructura de datos\Juego\Juego\obj\Debug\Juego.csproj.CoreCompileInputs.cache
+G:\Estructura de datos\Juego\Juego\obj\Debug\Juego.exe
+G:\Estructura de datos\Juego\Juego\obj\Debug\Juego.pdb
+E:\Estructura de datos\Juego\Juego\bin\Debug\Juego.exe.config
+E:\Estructura de datos\Juego\Juego\bin\Debug\Juego.exe
+E:\Estructura de datos\Juego\Juego\bin\Debug\Juego.pdb
+E:\Estructura de datos\Juego\Juego\obj\Debug\Juego.csprojAssemblyReference.cache
+E:\Estructura de datos\Juego\Juego\obj\Debug\Juego.csproj.CoreCompileInputs.cache
+E:\Estructura de datos\Juego\Juego\obj\Debug\Juego.exe
+E:\Estructura de datos\Juego\Juego\obj\Debug\Juego.pdb
+C:\Users\AcerAspire5920\Desktop\Juego\Juego\bin\Debug\Juego.exe.config
+C:\Users\AcerAspire5920\Desktop\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\AcerAspire5920\Desktop\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\AcerAspire5920\Desktop\Juego\Juego\obj\Debug\Juego.csprojAssemblyReference.cache
+C:\Users\AcerAspire5920\Desktop\Juego\Juego\obj\Debug\Juego.csproj.CoreCompileInputs.cache
+C:\Users\AcerAspire5920\Desktop\Juego\Juego\obj\Debug\Juego.exe
+C:\Users\AcerAspire5920\Desktop\Juego\Juego\obj\Debug\Juego.pdb
